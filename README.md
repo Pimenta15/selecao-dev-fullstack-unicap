@@ -151,6 +151,15 @@ root/
  └── README.md
 ```
 
+
+## 🖼️ Exemplo do sistema em funcionamento
+
+![App rodando](preGerar.png)
+
+
+![App rodando](geradorImagem.png)
+
+
 ---
 
 ## ✅ Checklist
@@ -167,4 +176,5 @@ root/
 * O backend usa **API externa** (Hugging Face), logo é necessário um **token válido** (`HF_API_KEY`).
 * Não commitar `.env` real — apenas `.env.example`.
 * Projeto estruturado para ser simples, claro e funcional como MVP.
+
 
